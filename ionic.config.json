@@ -1,0 +1,7 @@
+{
+  "name": "demo-github-action",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
